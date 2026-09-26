@@ -12,6 +12,8 @@ student_resource/
 
 # Generated data / outputs
 output/*.tsv
+experiments/*.tsv
+experiments/_backup_pre_v2a_fixes/
 
 # Jupyter
 .ipynb_checkpoints/
